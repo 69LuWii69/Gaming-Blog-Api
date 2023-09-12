@@ -1,0 +1,1382 @@
+{
+  "name": "Dynamic Location Rewards:",
+  "data": [
+    [
+      [
+        "Arbitrations"
+      ],
+      [
+        "Rotation A",
+        ""
+      ],
+      [
+        "Ayatan Valana Sculpture",
+        "Rare (9.00%)"
+      ],
+      [
+        "Ayatan Sah Sculpture",
+        "Rare (9.00%)"
+      ],
+      [
+        "Ayatan Ayr Sculpture",
+        "Rare (9.00%)"
+      ],
+      [
+        "3X Vitus Essence",
+        "Rare (7.00%)"
+      ],
+      [
+        "Arcane Pistoleer",
+        "Rare (5.00%)"
+      ],
+      [
+        "Arcane Tanker",
+        "Rare (5.00%)"
+      ],
+      [
+        "Arcane Bodyguard",
+        "Rare (5.00%)"
+      ],
+      [
+        "Combat Discipline",
+        "Rare (2.00%)"
+      ],
+      [
+        "Adaptation",
+        "Rare (2.00%)"
+      ],
+      [
+        "Aerodynamic",
+        "Rare (2.00%)"
+      ],
+      [
+        "Aura Forma Blueprint",
+        "Ultra Rare (1.00%)"
+      ],
+      [
+        "900 Endo",
+        "Common (44.00%)"
+      ],
+      [
+        "Rotation B",
+        ""
+      ],
+      [
+        "Ayatan Vaya Sculpture",
+        "Uncommon (12.00%)"
+      ],
+      [
+        "Ayatan Piv Sculpture",
+        "Uncommon (12.00%)"
+      ],
+      [
+        "3X Vitus Essence",
+        "Rare (7.00%)"
+      ],
+      [
+        "Arcane Bodyguard",
+        "Rare (5.00%)"
+      ],
+      [
+        "Arcane Blade Charger",
+        "Rare (5.00%)"
+      ],
+      [
+        "Arcane Primary Charger",
+        "Rare (5.00%)"
+      ],
+      [
+        "Combat Discipline",
+        "Rare (2.50%)"
+      ],
+      [
+        "Adaptation",
+        "Rare (2.50%)"
+      ],
+      [
+        "Shepherd",
+        "Rare (2.50%)"
+      ],
+      [
+        "Aura Forma Blueprint",
+        "Rare (2.00%)"
+      ],
+      [
+        "1200 Endo",
+        "Common (44.50%)"
+      ],
+      [
+        "Rotation C",
+        ""
+      ],
+      [
+        "Ayatan Orta Sculpture",
+        "Uncommon (20.00%)"
+      ],
+      [
+        "3X Vitus Essence",
+        "Rare (7.00%)"
+      ],
+      [
+        "Arcane Pistoleer",
+        "Rare (5.00%)"
+      ],
+      [
+        "Arcane Tanker",
+        "Rare (5.00%)"
+      ],
+      [
+        "Arcane Blade Charger",
+        "Rare (5.00%)"
+      ],
+      [
+        "Arcane Primary Charger",
+        "Rare (5.00%)"
+      ],
+      [
+        "Combat Discipline",
+        "Rare (3.50%)"
+      ],
+      [
+        "Melee Guidance",
+        "Rare (3.50%)"
+      ],
+      [
+        "Swift Momentum",
+        "Rare (3.50%)"
+      ],
+      [
+        "Seeding Step Ephemera Blueprint",
+        "Rare (5.00%)"
+      ],
+      [
+        "Aura Forma Blueprint",
+        "Rare (4.50%)"
+      ],
+      [
+        "1500 Endo",
+        "Common (33.00%)"
+      ],
+      [
+        ""
+      ],
+      [
+        "Derelict Vault"
+      ],
+      [
+        "Corrupt Charge",
+        "Rare (4.35%)"
+      ],
+      [
+        "Hollow Point",
+        "Rare (4.35%)"
+      ],
+      [
+        "Spoiled Strike",
+        "Rare (4.35%)"
+      ],
+      [
+        "Magnum Force",
+        "Rare (4.35%)"
+      ],
+      [
+        "Tainted Clip",
+        "Rare (4.35%)"
+      ],
+      [
+        "Critical Delay",
+        "Rare (4.35%)"
+      ],
+      [
+        "Heavy Caliber",
+        "Rare (4.35%)"
+      ],
+      [
+        "Tainted Mag",
+        "Rare (4.35%)"
+      ],
+      [
+        "Vile Precision",
+        "Rare (4.35%)"
+      ],
+      [
+        "Narrow Minded",
+        "Rare (4.35%)"
+      ],
+      [
+        "Fleeting Expertise",
+        "Rare (4.35%)"
+      ],
+      [
+        "Blind Rage",
+        "Rare (4.35%)"
+      ],
+      [
+        "Overextended",
+        "Rare (4.35%)"
+      ],
+      [
+        "Tainted Shell",
+        "Rare (4.35%)"
+      ],
+      [
+        "Vicious Spread",
+        "Rare (4.35%)"
+      ],
+      [
+        "Burdened Magazine",
+        "Rare (4.35%)"
+      ],
+      [
+        "Anemic Agility",
+        "Rare (4.35%)"
+      ],
+      [
+        "Vile Acceleration",
+        "Rare (4.35%)"
+      ],
+      [
+        "Frail Momentum",
+        "Rare (4.35%)"
+      ],
+      [
+        "Critical Deceleration",
+        "Rare (4.35%)"
+      ],
+      [
+        "Creeping Bullseye",
+        "Rare (4.35%)"
+      ],
+      [
+        "Transient Fortitude",
+        "Rare (4.35%)"
+      ],
+      [
+        "Depleted Reload",
+        "Rare (4.35%)"
+      ],
+      [
+        ""
+      ],
+      [
+        "Phorid Assassination"
+      ],
+      [
+        "Nyx Neuroptics Blueprint",
+        "Common (38.72%)"
+      ],
+      [
+        "Nyx Chassis Blueprint",
+        "Common (38.72%)"
+      ],
+      [
+        "Nyx Systems Blueprint",
+        "Uncommon (22.56%)"
+      ],
+      [
+        ""
+      ],
+      [
+        "Nightmare Mode Rewards"
+      ],
+      [
+        "Rotation A",
+        ""
+      ],
+      [
+        "Ice Storm",
+        "Uncommon (18.97%)"
+      ],
+      [
+        "Stunning Speed",
+        "Uncommon (18.97%)"
+      ],
+      [
+        "Hammer Shot",
+        "Ultra Rare (1.01%)"
+      ],
+      [
+        "Wildfire",
+        "Uncommon (18.97%)"
+      ],
+      [
+        "Accelerated Blast",
+        "Uncommon (18.97%)"
+      ],
+      [
+        "Blaze",
+        "Ultra Rare (1.01%)"
+      ],
+      [
+        "Chilling Reload",
+        "Uncommon (22.11%)"
+      ],
+      [
+        "Rotation B",
+        ""
+      ],
+      [
+        "Drifting Contact",
+        "Uncommon (22.56%)"
+      ],
+      [
+        "Seeking Fury",
+        "Uncommon (15.49%)"
+      ],
+      [
+        "Armored Agility",
+        "Uncommon (15.49%)"
+      ],
+      [
+        "Shred",
+        "Uncommon (15.49%)"
+      ],
+      [
+        "Rending Strike",
+        "Uncommon (15.49%)"
+      ],
+      [
+        "Fortitude",
+        "Uncommon (15.49%)"
+      ],
+      [
+        "Rotation C",
+        ""
+      ],
+      [
+        "Streamlined Form",
+        "Uncommon (22.56%)"
+      ],
+      [
+        "Animal Instinct",
+        "Uncommon (15.49%)"
+      ],
+      [
+        "Vigor",
+        "Uncommon (15.49%)"
+      ],
+      [
+        "Lethal Torrent",
+        "Uncommon (15.49%)"
+      ],
+      [
+        "Focus Energy",
+        "Uncommon (15.49%)"
+      ],
+      [
+        "Constitution",
+        "Uncommon (15.49%)"
+      ],
+      [
+        ""
+      ],
+      [
+        "Fomorian Sabotage"
+      ],
+      [
+        "400 Endo",
+        "Common (40.00%)"
+      ],
+      [
+        "Imperator Vandal Barrel",
+        "Uncommon (10.00%)"
+      ],
+      [
+        "Imperator Vandal Receiver",
+        "Uncommon (10.00%)"
+      ],
+      [
+        "Imperator Vandal Blueprint",
+        "Uncommon (10.00%)"
+      ],
+      [
+        "Hypothermic Shell",
+        "Rare (5.00%)"
+      ],
+      [
+        "Charged Bullets",
+        "Rare (5.00%)"
+      ],
+      [
+        "Contamination Casing",
+        "Rare (5.00%)"
+      ],
+      [
+        "Cryo Coating",
+        "Rare (5.00%)"
+      ],
+      [
+        "Ion Infusion",
+        "Rare (5.00%)"
+      ],
+      [
+        "Infectious Injection",
+        "Rare (5.00%)"
+      ],
+      [
+        ""
+      ],
+      [
+        "Razorback"
+      ],
+      [
+        "Gorgon Wraith Blueprint",
+        "Uncommon (18.97%)"
+      ],
+      [
+        "Gorgon Wraith Barrel",
+        "Uncommon (18.97%)"
+      ],
+      [
+        "Gorgon Wraith Receiver",
+        "Uncommon (18.97%)"
+      ],
+      [
+        "Gorgon Wraith Stock",
+        "Uncommon (18.97%)"
+      ],
+      [
+        "Bore",
+        "Rare (5.53%)"
+      ],
+      [
+        "Piercing Caliber",
+        "Rare (5.53%)"
+      ],
+      [
+        "Breach Loader",
+        "Rare (5.53%)"
+      ],
+      [
+        "Auger Strike",
+        "Rare (5.53%)"
+      ],
+      [
+        "Magma Chamber",
+        "Ultra Rare (1.01%)"
+      ],
+      [
+        "Searing Steel",
+        "Ultra Rare (1.01%)"
+      ],
+      [
+        ""
+      ],
+      [
+        "Kuva Siphon"
+      ],
+      [
+        "100 Endo",
+        "Common (50.00%)"
+      ],
+      [
+        "Requiem I Relic",
+        "Uncommon (12.50%)"
+      ],
+      [
+        "Requiem Ii Relic",
+        "Uncommon (12.50%)"
+      ],
+      [
+        "Requiem Iii Relic",
+        "Uncommon (12.50%)"
+      ],
+      [
+        "Requiem Iv Relic",
+        "Uncommon (12.50%)"
+      ],
+      [
+        ""
+      ],
+      [
+        "Kuva Flood"
+      ],
+      [
+        "Requiem I Relic",
+        "Uncommon (25.00%)"
+      ],
+      [
+        "Requiem Ii Relic",
+        "Uncommon (25.00%)"
+      ],
+      [
+        "Requiem Iii Relic",
+        "Uncommon (25.00%)"
+      ],
+      [
+        "Requiem Iv Relic",
+        "Uncommon (25.00%)"
+      ],
+      [
+        ""
+      ],
+      [
+        "Hallowed Flame Mission Caches"
+      ],
+      [
+        "Rotation A",
+        ""
+      ],
+      [
+        "7,500 Credits Cache",
+        "Uncommon (15.18%)"
+      ],
+      [
+        "7,500 Credits Cache",
+        "Uncommon (15.18%)"
+      ],
+      [
+        "7,500 Credits Cache",
+        "Uncommon (15.18%)"
+      ],
+      [
+        "125X Kuva",
+        "Uncommon (15.18%)"
+      ],
+      [
+        "125X Kuva",
+        "Rare (7.37%)"
+      ],
+      [
+        "Ancient Healer Specter Blueprint",
+        "Rare (7.37%)"
+      ],
+      [
+        "Charger Specter Blueprint",
+        "Rare (7.37%)"
+      ],
+      [
+        "500X Nano Spores",
+        "Uncommon (15.18%)"
+      ],
+      [
+        "Norg",
+        "Ultra Rare (1.01%)"
+      ],
+      [
+        "Boot",
+        "Ultra Rare (1.01%)"
+      ],
+      [
+        "Rotation B",
+        ""
+      ],
+      [
+        "400 Endo",
+        "Uncommon (12.65%)"
+      ],
+      [
+        "400 Endo",
+        "Uncommon (12.65%)"
+      ],
+      [
+        "100X Plastids",
+        "Uncommon (12.65%)"
+      ],
+      [
+        "Orokin Cell",
+        "Uncommon (12.65%)"
+      ],
+      [
+        "175X Kuva",
+        "Uncommon (12.65%)"
+      ],
+      [
+        "175X Kuva",
+        "Uncommon (12.65%)"
+      ],
+      [
+        "Argon Crystal",
+        "Uncommon (11.06%)"
+      ],
+      [
+        "Forma Blueprint",
+        "Uncommon (11.06%)"
+      ],
+      [
+        "Clem Clone Blueprint",
+        "Ultra Rare (1.01%)"
+      ],
+      [
+        "Universal Medallion",
+        "Ultra Rare (1.01%)"
+      ],
+      [
+        "Rotation C",
+        ""
+      ],
+      [
+        "600 Endo",
+        "Uncommon (15.18%)"
+      ],
+      [
+        "600 Endo",
+        "Uncommon (15.18%)"
+      ],
+      [
+        "600 Endo",
+        "Rare (5.53%)"
+      ],
+      [
+        "225X Kuva",
+        "Uncommon (15.18%)"
+      ],
+      [
+        "225X Kuva",
+        "Uncommon (15.18%)"
+      ],
+      [
+        "Argon Crystal",
+        "Uncommon (15.18%)"
+      ],
+      [
+        "Day Of The Dead Sigil",
+        "Rare (5.53%)"
+      ],
+      [
+        "Kavat Genetic Code",
+        "Rare (5.53%)"
+      ],
+      [
+        "Kubrow Egg",
+        "Rare (5.53%)"
+      ],
+      [
+        "Nitain Extract",
+        "Ultra Rare (1.01%)"
+      ],
+      [
+        "Universal Medallion",
+        "Ultra Rare (1.01%)"
+      ],
+      [
+        ""
+      ],
+      [
+        "Hallowed Flame Endurance Caches"
+      ],
+      [
+        "Rotation A",
+        ""
+      ],
+      [
+        "10,000 Credits Cache",
+        "Uncommon (15.18%)"
+      ],
+      [
+        "10,000 Credits Cache",
+        "Uncommon (15.18%)"
+      ],
+      [
+        "10,000 Credits Cache",
+        "Uncommon (15.18%)"
+      ],
+      [
+        "150X Kuva",
+        "Uncommon (15.18%)"
+      ],
+      [
+        "150X Kuva",
+        "Uncommon (15.18%)"
+      ],
+      [
+        "Ancient Healer Specter Blueprint",
+        "Rare (7.37%)"
+      ],
+      [
+        "Charger Specter Blueprint",
+        "Rare (7.37%)"
+      ],
+      [
+        "2X Pherliac Pods",
+        "Rare (7.37%)"
+      ],
+      [
+        "Norg",
+        "Ultra Rare (1.01%)"
+      ],
+      [
+        "Boot",
+        "Ultra Rare (1.01%)"
+      ],
+      [
+        "Rotation B",
+        ""
+      ],
+      [
+        "400 Endo",
+        "Uncommon (12.65%)"
+      ],
+      [
+        "400 Endo",
+        "Uncommon (12.65%)"
+      ],
+      [
+        "Argon Crystal",
+        "Uncommon (12.65%)"
+      ],
+      [
+        "2X Orokin Cell",
+        "Uncommon (12.65%)"
+      ],
+      [
+        "200X Kuva",
+        "Uncommon (12.65%)"
+      ],
+      [
+        "200X Kuva",
+        "Uncommon (12.65%)"
+      ],
+      [
+        "Mutagen Mass",
+        "Uncommon (11.06%)"
+      ],
+      [
+        "Forma Blueprint",
+        "Uncommon (11.06%)"
+      ],
+      [
+        "Clem Clone Blueprint",
+        "Ultra Rare (1.01%)"
+      ],
+      [
+        "Universal Medallion",
+        "Ultra Rare (1.01%)"
+      ],
+      [
+        "Rotation C",
+        ""
+      ],
+      [
+        "250X Kuva",
+        "Uncommon (12.65%)"
+      ],
+      [
+        "250X Kuva",
+        "Uncommon (12.65%)"
+      ],
+      [
+        "600 Endo",
+        "Uncommon (12.65%)"
+      ],
+      [
+        "600 Endo",
+        "Uncommon (12.65%)"
+      ],
+      [
+        "2X Argon Crystal",
+        "Uncommon (12.65%)"
+      ],
+      [
+        "Day Of The Dead Sigil",
+        "Uncommon (12.65%)"
+      ],
+      [
+        "Kavat Genetic Code",
+        "Uncommon (11.06%)"
+      ],
+      [
+        "Kubrow Egg",
+        "Uncommon (11.06%)"
+      ],
+      [
+        "Nitain Extract",
+        "Ultra Rare (1.01%)"
+      ],
+      [
+        "Universal Medallion",
+        "Ultra Rare (1.01%)"
+      ],
+      [
+        ""
+      ],
+      [
+        "Granum Void"
+      ],
+      [
+        "Rotation A",
+        ""
+      ],
+      [
+        "2,000 Credits Cache",
+        "Common (50.00%)"
+      ],
+      [
+        "5X Void Traces",
+        "Common (33.33%)"
+      ],
+      [
+        "Granum Crown Decoration",
+        "Uncommon (16.67%)"
+      ],
+      [
+        "Rotation B",
+        ""
+      ],
+      [
+        "3,000 Credits Cache",
+        "Common (50.00%)"
+      ],
+      [
+        "200 Endo",
+        "Common (33.33%)"
+      ],
+      [
+        "Corpus Ship Bridge Scene",
+        "Uncommon (16.67%)"
+      ],
+      [
+        "Rotation C",
+        ""
+      ],
+      [
+        "Stropha Barrel",
+        "Uncommon (22.22%)"
+      ],
+      [
+        "Stropha Blade",
+        "Uncommon (22.22%)"
+      ],
+      [
+        "Stahlta Receiver",
+        "Uncommon (22.22%)"
+      ],
+      [
+        "Velox Barrel",
+        "Uncommon (22.22%)"
+      ],
+      [
+        "Protea Neuroptics Blueprint",
+        "Uncommon (11.11%)"
+      ],
+      [
+        ""
+      ],
+      [
+        "Extended Granum Void"
+      ],
+      [
+        "Rotation A",
+        ""
+      ],
+      [
+        "3,000 Credits Cache",
+        "Common (50.00%)"
+      ],
+      [
+        "10X Void Traces",
+        "Common (33.33%)"
+      ],
+      [
+        "Exemplar Granum Crown Decoration",
+        "Uncommon (16.67%)"
+      ],
+      [
+        "Rotation B",
+        ""
+      ],
+      [
+        "5,000 Credits Cache",
+        "Common (50.00%)"
+      ],
+      [
+        "400 Endo",
+        "Common (33.33%)"
+      ],
+      [
+        "Corpus Ship Hangar Scene",
+        "Uncommon (16.67%)"
+      ],
+      [
+        "Rotation C",
+        ""
+      ],
+      [
+        "Stropha Receiver",
+        "Uncommon (29.63%)"
+      ],
+      [
+        "Stahlta Stock",
+        "Uncommon (29.63%)"
+      ],
+      [
+        "Velox Receiver",
+        "Uncommon (29.63%)"
+      ],
+      [
+        "Protea Chassis Blueprint",
+        "Uncommon (11.11%)"
+      ],
+      [
+        ""
+      ],
+      [
+        "Nightmare Granum Void"
+      ],
+      [
+        "Rotation A",
+        ""
+      ],
+      [
+        "7,500 Credits Cache",
+        "Common (50.00%)"
+      ],
+      [
+        "15X Void Traces",
+        "Common (33.33%)"
+      ],
+      [
+        "Zenith Granum Crown Decoration",
+        "Uncommon (16.67%)"
+      ],
+      [
+        "Rotation B",
+        ""
+      ],
+      [
+        "10,000 Credits Cache",
+        "Common (50.00%)"
+      ],
+      [
+        "600 Endo",
+        "Common (33.33%)"
+      ],
+      [
+        "Corpus Ship Orbital Cannon Scene",
+        "Uncommon (16.67%)"
+      ],
+      [
+        "Rotation C",
+        ""
+      ],
+      [
+        "Mortuus Shoulder Guard",
+        "Uncommon (29.63%)"
+      ],
+      [
+        "Stropha Stock",
+        "Uncommon (29.63%)"
+      ],
+      [
+        "Stahlta Barrel",
+        "Uncommon (29.63%)"
+      ],
+      [
+        "Protea Systems Blueprint",
+        "Uncommon (11.11%)"
+      ],
+      [
+        ""
+      ],
+      [
+        "Void Storm (Earth)"
+      ],
+      [
+        "3X Corrupted Holokey",
+        "Common (37.50%)"
+      ],
+      [
+        "300 Endo",
+        "Uncommon (12.50%)"
+      ],
+      [
+        "Epitaph Blueprint",
+        "Uncommon (10.00%)"
+      ],
+      [
+        "Epitaph Barrel",
+        "Uncommon (10.00%)"
+      ],
+      [
+        "Epitaph Receiver",
+        "Uncommon (10.00%)"
+      ],
+      [
+        "Earth Resource Bundle",
+        "Rare (2.50%)"
+      ],
+      [
+        "Lith G6 Relic (Radiant)",
+        "Rare (2.50%)"
+      ],
+      [
+        "Lith W3 Relic (Radiant)",
+        "Rare (2.50%)"
+      ],
+      [
+        "Lith S15 Relic (Radiant)",
+        "Rare (2.50%)"
+      ],
+      [
+        "Lith S14 Relic (Radiant)",
+        "Rare (2.50%)"
+      ],
+      [
+        "Lith B11 Relic (Radiant)",
+        "Rare (2.50%)"
+      ],
+      [
+        "Lith H9 Relic (Radiant)",
+        "Rare (2.50%)"
+      ],
+      [
+        "Lith R3 Relic (Radiant)",
+        "Rare (2.50%)"
+      ],
+      [
+        ""
+      ],
+      [
+        "Void Storm (Venus)"
+      ],
+      [
+        "3X Corrupted Holokey",
+        "Common (37.50%)"
+      ],
+      [
+        "300 Endo",
+        "Uncommon (12.50%)"
+      ],
+      [
+        "Epitaph Blueprint",
+        "Uncommon (10.00%)"
+      ],
+      [
+        "Epitaph Barrel",
+        "Uncommon (10.00%)"
+      ],
+      [
+        "Epitaph Receiver",
+        "Uncommon (10.00%)"
+      ],
+      [
+        "Venus Resource Bundle",
+        "Rare (2.50%)"
+      ],
+      [
+        "Lith G6 Relic (Radiant)",
+        "Rare (2.50%)"
+      ],
+      [
+        "Lith W3 Relic (Radiant)",
+        "Rare (2.50%)"
+      ],
+      [
+        "Lith S15 Relic (Radiant)",
+        "Rare (2.50%)"
+      ],
+      [
+        "Lith S14 Relic (Radiant)",
+        "Rare (2.50%)"
+      ],
+      [
+        "Lith B11 Relic (Radiant)",
+        "Rare (2.50%)"
+      ],
+      [
+        "Lith H9 Relic (Radiant)",
+        "Rare (2.50%)"
+      ],
+      [
+        "Lith R3 Relic (Radiant)",
+        "Rare (2.50%)"
+      ],
+      [
+        ""
+      ],
+      [
+        "Void Storm (Saturn)"
+      ],
+      [
+        "5X Corrupted Holokey",
+        "Common (36.59%)"
+      ],
+      [
+        "600 Endo",
+        "Uncommon (12.20%)"
+      ],
+      [
+        "Epitaph Blueprint",
+        "Rare (9.76%)"
+      ],
+      [
+        "Epitaph Barrel",
+        "Rare (9.76%)"
+      ],
+      [
+        "Epitaph Receiver",
+        "Rare (9.76%)"
+      ],
+      [
+        "Saturn Resource Bundle",
+        "Rare (4.88%)"
+      ],
+      [
+        "Meso P11 Relic (Radiant)",
+        "Rare (2.44%)"
+      ],
+      [
+        "Meso G5 Relic (Radiant)",
+        "Rare (2.44%)"
+      ],
+      [
+        "Meso K6 Relic (Radiant)",
+        "Rare (2.44%)"
+      ],
+      [
+        "Meso P13 Relic (Radiant)",
+        "Rare (2.44%)"
+      ],
+      [
+        "Meso C8 Relic (Radiant)",
+        "Rare (2.44%)"
+      ],
+      [
+        "Meso K4 Relic (Radiant)",
+        "Rare (2.44%)"
+      ],
+      [
+        "Meso S12 Relic (Radiant)",
+        "Rare (2.44%)"
+      ],
+      [
+        ""
+      ],
+      [
+        "Void Storm (Neptune)"
+      ],
+      [
+        "4X Corrupted Holokey",
+        "Common (36.59%)"
+      ],
+      [
+        "900 Endo",
+        "Uncommon (12.20%)"
+      ],
+      [
+        "Sevagoth Chassis Blueprint",
+        "Rare (9.76%)"
+      ],
+      [
+        "Sevagoth Neuroptics Blueprint",
+        "Rare (9.76%)"
+      ],
+      [
+        "Sevagoth Systems Blueprint",
+        "Rare (9.76%)"
+      ],
+      [
+        "Neptune Resource Bundle",
+        "Rare (4.88%)"
+      ],
+      [
+        "Meso P11 Relic (Radiant)",
+        "Rare (2.44%)"
+      ],
+      [
+        "Meso G5 Relic (Radiant)",
+        "Rare (2.44%)"
+      ],
+      [
+        "Meso K6 Relic (Radiant)",
+        "Rare (2.44%)"
+      ],
+      [
+        "Meso P13 Relic (Radiant)",
+        "Rare (2.44%)"
+      ],
+      [
+        "Meso C8 Relic (Radiant)",
+        "Rare (2.44%)"
+      ],
+      [
+        "Meso K4 Relic (Radiant)",
+        "Rare (2.44%)"
+      ],
+      [
+        "Meso S12 Relic (Radiant)",
+        "Rare (2.44%)"
+      ],
+      [
+        ""
+      ],
+      [
+        "Void Storm (Pluto)"
+      ],
+      [
+        "6X Corrupted Holokey",
+        "Common (37.50%)"
+      ],
+      [
+        "900 Endo",
+        "Uncommon (12.50%)"
+      ],
+      [
+        "Sevagoth Chassis Blueprint",
+        "Uncommon (10.00%)"
+      ],
+      [
+        "Sevagoth Neuroptics Blueprint",
+        "Uncommon (10.00%)"
+      ],
+      [
+        "Sevagoth Systems Blueprint",
+        "Uncommon (10.00%)"
+      ],
+      [
+        "Pluto Resource Bundle",
+        "Rare (2.50%)"
+      ],
+      [
+        "Neo F2 Relic (Radiant)",
+        "Rare (2.50%)"
+      ],
+      [
+        "Neo T7 Relic (Radiant)",
+        "Rare (2.50%)"
+      ],
+      [
+        "Neo K5 Relic (Radiant)",
+        "Rare (2.50%)"
+      ],
+      [
+        "Neo D7 Relic (Radiant)",
+        "Rare (2.50%)"
+      ],
+      [
+        "Neo C4 Relic (Radiant)",
+        "Rare (2.50%)"
+      ],
+      [
+        "Neo L3 Relic (Radiant)",
+        "Rare (2.50%)"
+      ],
+      [
+        "Neo N23 Relic (Radiant)",
+        "Rare (2.50%)"
+      ],
+      [
+        ""
+      ],
+      [
+        "Void Storm (Veil Proxima)"
+      ],
+      [
+        "10X Corrupted Holokey",
+        "Common (37.50%)"
+      ],
+      [
+        "1200 Endo",
+        "Uncommon (12.50%)"
+      ],
+      [
+        "Sevagoth Chassis Blueprint",
+        "Uncommon (10.00%)"
+      ],
+      [
+        "Sevagoth Neuroptics Blueprint",
+        "Uncommon (10.00%)"
+      ],
+      [
+        "Sevagoth Systems Blueprint",
+        "Uncommon (10.00%)"
+      ],
+      [
+        "Veil Resource Bundle",
+        "Rare (2.50%)"
+      ],
+      [
+        "Axi H6 Relic (Radiant)",
+        "Rare (2.50%)"
+      ],
+      [
+        "Axi A16 Relic (Radiant)",
+        "Rare (2.50%)"
+      ],
+      [
+        "Axi G10 Relic (Radiant)",
+        "Rare (2.50%)"
+      ],
+      [
+        "Axi B6 Relic (Radiant)",
+        "Rare (2.50%)"
+      ],
+      [
+        "Axi K11 Relic (Radiant)",
+        "Rare (2.50%)"
+      ],
+      [
+        "Axi W3 Relic (Radiant)",
+        "Rare (2.50%)"
+      ],
+      [
+        "Axi H7 Relic (Radiant)",
+        "Rare (2.50%)"
+      ],
+      [
+        ""
+      ],
+      [
+        "Duviri Full Experience"
+      ],
+      [
+        "Kovnik",
+        "Rare (7.52%)"
+      ],
+      [
+        "Eevani",
+        "Rare (7.52%)"
+      ],
+      [
+        "Connla Sprout",
+        "Rare (7.52%)"
+      ],
+      [
+        "5X Aggristone",
+        "Common (38.72%)"
+      ],
+      [
+        "3X Saggen Pearl",
+        "Common (38.72%)"
+      ],
+      [
+        ""
+      ],
+      [
+        "Duviri Circuit"
+      ],
+      [
+        "Yao Shrub",
+        "Legendary (0.25%)"
+      ],
+      [
+        "Dracroot",
+        "Legendary (0.25%)"
+      ],
+      [
+        "Eevani",
+        "Ultra Rare (1.00%)"
+      ],
+      [
+        "Connla Sprout",
+        "Ultra Rare (1.00%)"
+      ],
+      [
+        "Kovnik",
+        "Uncommon (22.00%)"
+      ],
+      [
+        "7X Aggristone",
+        "Common (37.75%)"
+      ],
+      [
+        "5X Saggen Pearl",
+        "Common (37.75%)"
+      ],
+      [
+        ""
+      ]
+    ]
+  ],
+  "id": "transientRewards"
+}

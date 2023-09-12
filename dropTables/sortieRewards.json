@@ -1,0 +1,79 @@
+{
+  "name": "Sorties:",
+  "data": [
+    [
+      [
+        "Sortie"
+      ],
+      [
+        "Rifle Riven Mod",
+        "Rare (6.79%)"
+      ],
+      [
+        "Ayatan Anasa Sculpture",
+        "Uncommon (28.00%)"
+      ],
+      [
+        "4000 Endo",
+        "Uncommon (12.10%)"
+      ],
+      [
+        "Forma",
+        "Rare (2.50%)"
+      ],
+      [
+        "Exilus Warframe Adapter",
+        "Rare (2.50%)"
+      ],
+      [
+        "Orokin Reactor Blueprint",
+        "Rare (2.50%)"
+      ],
+      [
+        "Orokin Catalyst Blueprint",
+        "Rare (2.50%)"
+      ],
+      [
+        "Legendary Core",
+        "Legendary (0.18%)"
+      ],
+      [
+        "6000X Kuva",
+        "Uncommon (12.00%)"
+      ],
+      [
+        "Mod Drop Chance Booster",
+        "Rare (3.27%)"
+      ],
+      [
+        "Affinity Booster",
+        "Rare (3.27%)"
+      ],
+      [
+        "Resource Drop Chance Booster",
+        "Rare (3.27%)"
+      ],
+      [
+        "Pistol Riven Mod",
+        "Rare (7.61%)"
+      ],
+      [
+        "Shotgun Riven Mod",
+        "Ultra Rare (1.36%)"
+      ],
+      [
+        "Melee Riven Mod",
+        "Rare (8.14%)"
+      ],
+      [
+        "Zaw Riven Mod",
+        "Rare (2.00%)"
+      ],
+      [
+        "Kitgun Riven Mod",
+        "Rare (2.00%)"
+      ]
+    ]
+  ],
+  "id": "sortieRewards"
+}

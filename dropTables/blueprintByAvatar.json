@@ -1,0 +1,1985 @@
+{
+  "name": "Blueprint/Item Drops by Source:",
+  "data": [
+    [
+      [
+        "Vem Tabook",
+        "Blueprint/Item Drop Chance: 25.00%"
+      ],
+      [
+        "",
+        "Scimitar Fuselage Blueprint",
+        "Common (50.00%)"
+      ],
+      [
+        "",
+        "Brakk Blueprint",
+        "Common (50.00%)"
+      ],
+      [
+        ""
+      ],
+      [
+        "Leekter",
+        "Blueprint/Item Drop Chance: 25.00%"
+      ],
+      [
+        "",
+        "Brakk Receiver",
+        "Very Common (100.00%)"
+      ],
+      [
+        ""
+      ],
+      [
+        "Shik Tal",
+        "Blueprint/Item Drop Chance: 25.00%"
+      ],
+      [
+        "",
+        "Brakk Barrel",
+        "Very Common (100.00%)"
+      ],
+      [
+        ""
+      ],
+      [
+        "Aurax Atloc Raknoid",
+        "Blueprint/Item Drop Chance: 15.00%"
+      ],
+      [
+        "",
+        "Ambassador Barrel Blueprint",
+        "Common (33.33%)"
+      ],
+      [
+        "",
+        "Ambassador Receiver Blueprint",
+        "Common (33.33%)"
+      ],
+      [
+        "",
+        "Ambassador Stock Blueprint",
+        "Common (33.33%)"
+      ],
+      [
+        ""
+      ],
+      [
+        "Tusk Thumper Doma",
+        "Blueprint/Item Drop Chance: 5.00%"
+      ],
+      [
+        "",
+        "Korrudo Blueprint",
+        "Very Common (100.00%)"
+      ],
+      [
+        ""
+      ],
+      [
+        "Tusk Thumper Bull",
+        "Blueprint/Item Drop Chance: 2.50%"
+      ],
+      [
+        "",
+        "Korrudo Blueprint",
+        "Very Common (100.00%)"
+      ],
+      [
+        ""
+      ],
+      [
+        "Demolisher Boiler",
+        "Blueprint/Item Drop Chance: 2.50%"
+      ],
+      [
+        "",
+        "Akarius Blueprint",
+        "Common (50.00%)"
+      ],
+      [
+        "",
+        "Acceltra Blueprint",
+        "Common (50.00%)"
+      ],
+      [
+        ""
+      ],
+      [
+        "Demolisher Thrasher",
+        "Blueprint/Item Drop Chance: 2.50%"
+      ],
+      [
+        "",
+        "Akarius Blueprint",
+        "Common (50.00%)"
+      ],
+      [
+        "",
+        "Acceltra Blueprint",
+        "Common (50.00%)"
+      ],
+      [
+        ""
+      ],
+      [
+        "Demolisher Juggernaut",
+        "Blueprint/Item Drop Chance: 3.75%"
+      ],
+      [
+        "",
+        "Pherliac Pods Blueprint",
+        "Common (33.33%)"
+      ],
+      [
+        "",
+        "Akarius Blueprint",
+        "Common (33.33%)"
+      ],
+      [
+        "",
+        "Acceltra Blueprint",
+        "Common (33.33%)"
+      ],
+      [
+        ""
+      ],
+      [
+        "Demolisher Charger",
+        "Blueprint/Item Drop Chance: 2.50%"
+      ],
+      [
+        "",
+        "Akarius Blueprint",
+        "Common (50.00%)"
+      ],
+      [
+        "",
+        "Acceltra Blueprint",
+        "Common (50.00%)"
+      ],
+      [
+        ""
+      ],
+      [
+        "Aerolyst",
+        "Blueprint/Item Drop Chance: 1.00%"
+      ],
+      [
+        "",
+        "War Blade",
+        "Common (50.00%)"
+      ],
+      [
+        "",
+        "War Hilt",
+        "Common (50.00%)"
+      ],
+      [
+        ""
+      ],
+      [
+        "Summulyst",
+        "Blueprint/Item Drop Chance: 1.00%"
+      ],
+      [
+        "",
+        "War Blade",
+        "Common (50.00%)"
+      ],
+      [
+        "",
+        "War Hilt",
+        "Common (50.00%)"
+      ],
+      [
+        ""
+      ],
+      [
+        "Ortholyst",
+        "Blueprint/Item Drop Chance: 1.00%"
+      ],
+      [
+        "",
+        "War Blade",
+        "Common (50.00%)"
+      ],
+      [
+        "",
+        "War Hilt",
+        "Common (50.00%)"
+      ],
+      [
+        ""
+      ],
+      [
+        "Symbilyst",
+        "Blueprint/Item Drop Chance: 4.00%"
+      ],
+      [
+        "",
+        "Shedu Barrel",
+        "Uncommon (25.00%)"
+      ],
+      [
+        "",
+        "Shedu Chassis",
+        "Uncommon (25.00%)"
+      ],
+      [
+        "",
+        "Shedu Handle",
+        "Uncommon (25.00%)"
+      ],
+      [
+        "",
+        "Shedu Receiver",
+        "Uncommon (25.00%)"
+      ],
+      [
+        ""
+      ],
+      [
+        "Zealoid Prelate",
+        "Blueprint/Item Drop Chance: 100.00%"
+      ],
+      [
+        "",
+        "Pathocyst Blade",
+        "Common (33.33%)"
+      ],
+      [
+        "",
+        "Pathocyst Subcortex",
+        "Common (33.33%)"
+      ],
+      [
+        "",
+        "Pathocyst Blueprint",
+        "Common (33.33%)"
+      ],
+      [
+        ""
+      ],
+      [
+        "Wolf Of Saturn Six",
+        "Blueprint/Item Drop Chance: 35.00%"
+      ],
+      [
+        "",
+        "Wolf Sledge Handle",
+        "Common (38.72%)"
+      ],
+      [
+        "",
+        "Wolf Sledge Head",
+        "Common (38.72%)"
+      ],
+      [
+        "",
+        "Wolf Sledge Motor",
+        "Uncommon (11.28%)"
+      ],
+      [
+        "",
+        "Wolf Sledge Blueprint",
+        "Uncommon (11.28%)"
+      ],
+      [
+        ""
+      ],
+      [
+        "Wolf Of Saturn Six",
+        "Blueprint/Item Drop Chance: 35.00%"
+      ],
+      [
+        "",
+        "Wolf Sledge Handle",
+        "Common (38.72%)"
+      ],
+      [
+        "",
+        "Wolf Sledge Head",
+        "Common (38.72%)"
+      ],
+      [
+        "",
+        "Wolf Sledge Motor",
+        "Uncommon (11.28%)"
+      ],
+      [
+        "",
+        "Wolf Sledge Blueprint",
+        "Uncommon (11.28%)"
+      ],
+      [
+        ""
+      ],
+      [
+        "Captain Vor",
+        "Blueprint/Item Drop Chance: 100.00%"
+      ],
+      [
+        "",
+        "Cronus Blueprint",
+        "Very Common (100.00%)"
+      ],
+      [
+        ""
+      ],
+      [
+        "Kuva Hyekka Master",
+        "Blueprint/Item Drop Chance: 1.50%"
+      ],
+      [
+        "",
+        "Kavat Incubator Upgrade Segment Blueprint",
+        "Very Common (100.00%)"
+      ],
+      [
+        ""
+      ],
+      [
+        "Ghoul Auger Alpha",
+        "Blueprint/Item Drop Chance: 50.00%"
+      ],
+      [
+        "",
+        "Quartakk Blueprint",
+        "Very Common (100.00%)"
+      ],
+      [
+        ""
+      ],
+      [
+        "Ghoul Rictus Alpha",
+        "Blueprint/Item Drop Chance: 50.00%"
+      ],
+      [
+        "",
+        "Stubba Blueprint",
+        "Very Common (100.00%)"
+      ],
+      [
+        ""
+      ],
+      [
+        "Heavy Gunner",
+        "Blueprint/Item Drop Chance: 1.00%"
+      ],
+      [
+        "",
+        "Gorgon Blueprint",
+        "Very Common (100.00%)"
+      ],
+      [
+        ""
+      ],
+      [
+        "Arid Heavy Gunner",
+        "Blueprint/Item Drop Chance: 1.00%"
+      ],
+      [
+        "",
+        "Gorgon Blueprint",
+        "Very Common (100.00%)"
+      ],
+      [
+        ""
+      ],
+      [
+        "Hyekka Master",
+        "Blueprint/Item Drop Chance: 1.50%"
+      ],
+      [
+        "",
+        "Kavat Incubator Upgrade Segment Blueprint",
+        "Very Common (100.00%)"
+      ],
+      [
+        ""
+      ],
+      [
+        "Frontier Heavy Gunner",
+        "Blueprint/Item Drop Chance: 1.00%"
+      ],
+      [
+        "",
+        "Gorgon Blueprint",
+        "Very Common (100.00%)"
+      ],
+      [
+        ""
+      ],
+      [
+        "Hunhow",
+        "Blueprint/Item Drop Chance: 50.00%"
+      ],
+      [
+        "",
+        "Dread Blueprint",
+        "Very Common (75.88%)"
+      ],
+      [
+        "",
+        "Despair Blueprint",
+        "Uncommon (11.06%)"
+      ],
+      [
+        "",
+        "Hate Blueprint",
+        "Uncommon (11.06%)"
+      ],
+      [
+        "",
+        "Scimitar Engines Blueprint",
+        "Rare (2.01%)"
+      ],
+      [
+        ""
+      ],
+      [
+        "Juggernaut Behemoth",
+        "Blueprint/Item Drop Chance: 90.00%"
+      ],
+      [
+        "",
+        "Pherliac Pods Blueprint",
+        "Very Common (100.00%)"
+      ],
+      [
+        ""
+      ],
+      [
+        "Juggernaut",
+        "Blueprint/Item Drop Chance: 90.00%"
+      ],
+      [
+        "",
+        "Pherliac Pods Blueprint",
+        "Very Common (100.00%)"
+      ],
+      [
+        ""
+      ],
+      [
+        "Jack O'Naut",
+        "Blueprint/Item Drop Chance: 90.00%"
+      ],
+      [
+        "",
+        "Pherliac Pods Blueprint",
+        "Very Common (100.00%)"
+      ],
+      [
+        ""
+      ],
+      [
+        "Kela De Thaym",
+        "Blueprint/Item Drop Chance: 25.00%"
+      ],
+      [
+        "",
+        "Twin Kohmak Blueprint",
+        "Very Common (100.00%)"
+      ],
+      [
+        ""
+      ],
+      [
+        "Orokin Storage Container",
+        "Blueprint/Item Drop Chance: 100.00%"
+      ],
+      [
+        "",
+        "Octavia Chassis Blueprint",
+        "Very Common (100.00%)"
+      ],
+      [
+        ""
+      ],
+      [
+        "Jackal",
+        "Blueprint/Item Drop Chance: 30.00%"
+      ],
+      [
+        "",
+        "Stropha Blueprint",
+        "Common (50.00%)"
+      ],
+      [
+        "",
+        "Stahlta Blueprint",
+        "Common (50.00%)"
+      ],
+      [
+        ""
+      ],
+      [
+        "Rare Corpus Storage Container",
+        "Blueprint/Item Drop Chance: 30.00%"
+      ],
+      [
+        "",
+        "Mantis Fuselage Blueprint",
+        "Very Common (100.00%)"
+      ],
+      [
+        ""
+      ],
+      [
+        "Forgotten Grineer Storage Container",
+        "Blueprint/Item Drop Chance: 30.00%"
+      ],
+      [
+        "",
+        "Mantis Engines Blueprint",
+        "Very Common (100.00%)"
+      ],
+      [
+        ""
+      ],
+      [
+        "Rare Grineer Storage Container",
+        "Blueprint/Item Drop Chance: 30.00%"
+      ],
+      [
+        "",
+        "Mantis Engines Blueprint",
+        "Very Common (100.00%)"
+      ],
+      [
+        ""
+      ],
+      [
+        "Rare Orokin Storage Container",
+        "Blueprint/Item Drop Chance: 100.00%"
+      ],
+      [
+        "",
+        "Mantis Avionics Blueprint",
+        "Very Common (100.00%)"
+      ],
+      [
+        ""
+      ],
+      [
+        "Drekar Trooper",
+        "Blueprint/Item Drop Chance: 0.50%"
+      ],
+      [
+        "",
+        "Boar Blueprint",
+        "Very Common (100.00%)"
+      ],
+      [
+        ""
+      ],
+      [
+        "Conculyst",
+        "Blueprint/Item Drop Chance: 1.00%"
+      ],
+      [
+        "",
+        "War Blade",
+        "Common (50.00%)"
+      ],
+      [
+        "",
+        "War Hilt",
+        "Common (50.00%)"
+      ],
+      [
+        ""
+      ],
+      [
+        "Decaying Conculyst",
+        "Blueprint/Item Drop Chance: 1.00%"
+      ],
+      [
+        "",
+        "War Blade",
+        "Common (50.00%)"
+      ],
+      [
+        "",
+        "War Hilt",
+        "Common (50.00%)"
+      ],
+      [
+        ""
+      ],
+      [
+        "Stalker",
+        "Blueprint/Item Drop Chance: 50.00%"
+      ],
+      [
+        "",
+        "Dread Blueprint",
+        "Very Common (75.88%)"
+      ],
+      [
+        "",
+        "Despair Blueprint",
+        "Uncommon (11.06%)"
+      ],
+      [
+        "",
+        "Hate Blueprint",
+        "Uncommon (11.06%)"
+      ],
+      [
+        "",
+        "Scimitar Engines Blueprint",
+        "Rare (2.01%)"
+      ],
+      [
+        ""
+      ],
+      [
+        "Shadow Stalker",
+        "Blueprint/Item Drop Chance: 50.00%"
+      ],
+      [
+        "",
+        "Dread Blueprint",
+        "Very Common (75.88%)"
+      ],
+      [
+        "",
+        "Broken War Blueprint",
+        "Rare (5.53%)"
+      ],
+      [
+        "",
+        "Despair Blueprint",
+        "Rare (5.53%)"
+      ],
+      [
+        "",
+        "Hate Blueprint",
+        "Rare (5.53%)"
+      ],
+      [
+        "",
+        "War Blueprint",
+        "Rare (5.53%)"
+      ],
+      [
+        "",
+        "Scimitar Engines Blueprint",
+        "Rare (2.01%)"
+      ],
+      [
+        ""
+      ],
+      [
+        "Corrupted Warden",
+        "Blueprint/Item Drop Chance: 1.00%"
+      ],
+      [
+        "",
+        "Gorgon Blueprint",
+        "Very Common (100.00%)"
+      ],
+      [
+        ""
+      ],
+      [
+        "Grineer Warden",
+        "Blueprint/Item Drop Chance: 1.00%"
+      ],
+      [
+        "",
+        "Gorgon Blueprint",
+        "Very Common (100.00%)"
+      ],
+      [
+        ""
+      ],
+      [
+        "Zanuka Hunter",
+        "Blueprint/Item Drop Chance: 100.00%"
+      ],
+      [
+        "",
+        "Detron Barrel",
+        "Uncommon (32.35%)"
+      ],
+      [
+        "",
+        "Detron Receiver",
+        "Uncommon (32.35%)"
+      ],
+      [
+        "",
+        "Scimitar Avionics Blueprint",
+        "Uncommon (17.65%)"
+      ],
+      [
+        "",
+        "Detron Blueprint",
+        "Uncommon (17.65%)"
+      ],
+      [
+        ""
+      ],
+      [
+        "Polyp-Hog Juggernaut",
+        "Blueprint/Item Drop Chance: 5.00%"
+      ],
+      [
+        "",
+        "Pherliac Pods Blueprint",
+        "Very Common (100.00%)"
+      ],
+      [
+        ""
+      ],
+      [
+        "Deimos Juggernaut",
+        "Blueprint/Item Drop Chance: 90.00%"
+      ],
+      [
+        "",
+        "Pherliac Pods Blueprint",
+        "Very Common (100.00%)"
+      ],
+      [
+        ""
+      ],
+      [
+        "Deimos Juggernaut",
+        "Blueprint/Item Drop Chance: 5.00%"
+      ],
+      [
+        "",
+        "Pherliac Pods Blueprint",
+        "Very Common (100.00%)"
+      ],
+      [
+        ""
+      ],
+      [
+        "Garv",
+        "Blueprint/Item Drop Chance: 1.00%"
+      ],
+      [
+        "",
+        "Gorgon Blueprint",
+        "Very Common (100.00%)"
+      ],
+      [
+        ""
+      ],
+      [
+        "Narmer Gunner Warden",
+        "Blueprint/Item Drop Chance: 1.00%"
+      ],
+      [
+        "",
+        "Gorgon Blueprint",
+        "Very Common (100.00%)"
+      ],
+      [
+        ""
+      ],
+      [
+        "Narmer Heavy Gunner",
+        "Blueprint/Item Drop Chance: 1.00%"
+      ],
+      [
+        "",
+        "Gorgon Blueprint",
+        "Very Common (100.00%)"
+      ],
+      [
+        ""
+      ],
+      [
+        "Narmer Raknoid",
+        "Blueprint/Item Drop Chance: 15.00%"
+      ],
+      [
+        "",
+        "Ambassador Barrel Blueprint",
+        "Common (33.33%)"
+      ],
+      [
+        "",
+        "Ambassador Receiver Blueprint",
+        "Common (33.33%)"
+      ],
+      [
+        "",
+        "Ambassador Stock Blueprint",
+        "Common (33.33%)"
+      ],
+      [
+        ""
+      ],
+      [
+        "Narmer Thumper Doma",
+        "Blueprint/Item Drop Chance: 5.00%"
+      ],
+      [
+        "",
+        "Korrudo Blueprint",
+        "Very Common (100.00%)"
+      ],
+      [
+        ""
+      ],
+      [
+        "Narmer Thumper Bull",
+        "Blueprint/Item Drop Chance: 2.50%"
+      ],
+      [
+        "",
+        "Korrudo Blueprint",
+        "Very Common (100.00%)"
+      ],
+      [
+        ""
+      ],
+      [
+        "Typholyst",
+        "Blueprint/Item Drop Chance: 1.00%"
+      ],
+      [
+        "",
+        "War Blade",
+        "Common (50.00%)"
+      ],
+      [
+        "",
+        "War Hilt",
+        "Common (50.00%)"
+      ],
+      [
+        ""
+      ],
+      [
+        "Pyr Captain",
+        "Blueprint/Item Drop Chance: 15.00%"
+      ],
+      [
+        "",
+        "Quellor Blueprint",
+        "Common (48.71%)"
+      ],
+      [
+        "",
+        "Pennant Blueprint",
+        "Common (48.71%)"
+      ],
+      [
+        "",
+        "Blazing Step Ephemera Blueprint",
+        "Rare (2.58%)"
+      ],
+      [
+        ""
+      ],
+      [
+        "Glacik Commander",
+        "Blueprint/Item Drop Chance: 15.00%"
+      ],
+      [
+        "",
+        "Quellor Blueprint",
+        "Common (48.71%)"
+      ],
+      [
+        "",
+        "Pennant Blueprint",
+        "Common (48.71%)"
+      ],
+      [
+        "",
+        "Blazing Step Ephemera Blueprint",
+        "Rare (2.58%)"
+      ],
+      [
+        ""
+      ],
+      [
+        "Lektro Commander",
+        "Blueprint/Item Drop Chance: 15.00%"
+      ],
+      [
+        "",
+        "Quellor Blueprint",
+        "Common (48.71%)"
+      ],
+      [
+        "",
+        "Pennant Blueprint",
+        "Common (48.71%)"
+      ],
+      [
+        "",
+        "Blazing Step Ephemera Blueprint",
+        "Rare (2.58%)"
+      ],
+      [
+        ""
+      ],
+      [
+        "Blite Captain",
+        "Blueprint/Item Drop Chance: 15.00%"
+      ],
+      [
+        "",
+        "Quellor Blueprint",
+        "Common (48.71%)"
+      ],
+      [
+        "",
+        "Pennant Blueprint",
+        "Common (48.71%)"
+      ],
+      [
+        "",
+        "Blazing Step Ephemera Blueprint",
+        "Rare (2.58%)"
+      ],
+      [
+        ""
+      ],
+      [
+        "Taro Crewship",
+        "Blueprint/Item Drop Chance: 20.00%"
+      ],
+      [
+        "",
+        "Lavan Vort Mk I",
+        "Uncommon (12.50%)"
+      ],
+      [
+        "",
+        "Vidar Vort Mk I",
+        "Uncommon (12.50%)"
+      ],
+      [
+        "",
+        "Lavan Glazio Mk I",
+        "Uncommon (12.50%)"
+      ],
+      [
+        "",
+        "Vidar Glazio Mk I",
+        "Uncommon (12.50%)"
+      ],
+      [
+        "",
+        "Lavan Talyn Mk I",
+        "Uncommon (12.50%)"
+      ],
+      [
+        "",
+        "Vidar Talyn Mk I",
+        "Uncommon (12.50%)"
+      ],
+      [
+        "",
+        "Lavan Laith Mk I",
+        "Uncommon (12.50%)"
+      ],
+      [
+        "",
+        "Vidar Laith Mk I",
+        "Uncommon (12.50%)"
+      ],
+      [
+        ""
+      ],
+      [
+        "Axio Crewship",
+        "Blueprint/Item Drop Chance: 20.00%"
+      ],
+      [
+        "",
+        "Lavan Vort Mk Ii",
+        "Uncommon (12.50%)"
+      ],
+      [
+        "",
+        "Vidar Vort Mk Ii",
+        "Uncommon (12.50%)"
+      ],
+      [
+        "",
+        "Lavan Glazio Mk Ii",
+        "Uncommon (12.50%)"
+      ],
+      [
+        "",
+        "Vidar Glazio Mk Ii",
+        "Uncommon (12.50%)"
+      ],
+      [
+        "",
+        "Lavan Talyn Mk Ii",
+        "Uncommon (12.50%)"
+      ],
+      [
+        "",
+        "Vidar Talyn Mk Ii",
+        "Uncommon (12.50%)"
+      ],
+      [
+        "",
+        "Lavan Laith Mk Ii",
+        "Uncommon (12.50%)"
+      ],
+      [
+        "",
+        "Vidar Laith Mk Ii",
+        "Uncommon (12.50%)"
+      ],
+      [
+        ""
+      ],
+      [
+        "Vorac Crewship",
+        "Blueprint/Item Drop Chance: 20.00%"
+      ],
+      [
+        "",
+        "Lavan Vort Mk Iii",
+        "Uncommon (12.50%)"
+      ],
+      [
+        "",
+        "Vidar Vort Mk Iii",
+        "Uncommon (12.50%)"
+      ],
+      [
+        "",
+        "Lavan Glazio Mk Iii",
+        "Uncommon (12.50%)"
+      ],
+      [
+        "",
+        "Vidar Glazio Mk Iii",
+        "Uncommon (12.50%)"
+      ],
+      [
+        "",
+        "Lavan Talyn Mk Iii",
+        "Uncommon (12.50%)"
+      ],
+      [
+        "",
+        "Vidar Talyn Mk Iii",
+        "Uncommon (12.50%)"
+      ],
+      [
+        "",
+        "Lavan Laith Mk Iii",
+        "Uncommon (12.50%)"
+      ],
+      [
+        "",
+        "Vidar Laith Mk Iii",
+        "Uncommon (12.50%)"
+      ],
+      [
+        ""
+      ],
+      [
+        "Orm Crewship",
+        "Blueprint/Item Drop Chance: 20.00%"
+      ],
+      [
+        "",
+        "Vidar Vort Mk Iii",
+        "Uncommon (12.50%)"
+      ],
+      [
+        "",
+        "Zetki Vort Mk Iii",
+        "Uncommon (12.50%)"
+      ],
+      [
+        "",
+        "Vidar Glazio Mk Iii",
+        "Uncommon (12.50%)"
+      ],
+      [
+        "",
+        "Zetki Glazio Mk Iii",
+        "Uncommon (12.50%)"
+      ],
+      [
+        "",
+        "Vidar Talyn Mk Iii",
+        "Uncommon (12.50%)"
+      ],
+      [
+        "",
+        "Zetki Talyn Mk Iii",
+        "Uncommon (12.50%)"
+      ],
+      [
+        "",
+        "Vidar Laith Mk Iii",
+        "Uncommon (12.50%)"
+      ],
+      [
+        "",
+        "Zetki Laith Mk Iii",
+        "Uncommon (12.50%)"
+      ],
+      [
+        ""
+      ],
+      [
+        "Orm Gox",
+        "Blueprint/Item Drop Chance: 20.00%"
+      ],
+      [
+        "",
+        "Lavan Engines Mk Iii",
+        "Uncommon (12.50%)"
+      ],
+      [
+        "",
+        "Vidar Engines Mk Iii",
+        "Uncommon (12.50%)"
+      ],
+      [
+        "",
+        "Lavan Plating Mk Iii",
+        "Uncommon (12.50%)"
+      ],
+      [
+        "",
+        "Vidar Plating Mk Iii",
+        "Uncommon (12.50%)"
+      ],
+      [
+        "",
+        "Lavan Reactor Mk Iii",
+        "Uncommon (12.50%)"
+      ],
+      [
+        "",
+        "Vidar Reactor Mk Iii",
+        "Uncommon (12.50%)"
+      ],
+      [
+        "",
+        "Lavan Shield Array Mk Iii",
+        "Uncommon (12.50%)"
+      ],
+      [
+        "",
+        "Vidar Shield Array Mk Iii",
+        "Uncommon (12.50%)"
+      ],
+      [
+        ""
+      ],
+      [
+        "Elite Orm Weaver",
+        "Blueprint/Item Drop Chance: 20.00%"
+      ],
+      [
+        "",
+        "Zetki Engines Mk Iii",
+        "Uncommon (12.50%)"
+      ],
+      [
+        "",
+        "Zetki Plating Mk Iii",
+        "Uncommon (12.50%)"
+      ],
+      [
+        "",
+        "Zetki Reactor Mk Iii",
+        "Uncommon (12.50%)"
+      ],
+      [
+        "",
+        "Zetki Shield Array Mk Iii",
+        "Uncommon (12.50%)"
+      ],
+      [
+        "",
+        "Zetki Vort Mk Iii",
+        "Uncommon (12.50%)"
+      ],
+      [
+        "",
+        "Zetki Glazio Mk Iii",
+        "Uncommon (12.50%)"
+      ],
+      [
+        "",
+        "Zetki Talyn Mk Iii",
+        "Uncommon (12.50%)"
+      ],
+      [
+        "",
+        "Zetki Laith Mk Iii",
+        "Uncommon (12.50%)"
+      ],
+      [
+        ""
+      ],
+      [
+        "Axio Gox",
+        "Blueprint/Item Drop Chance: 20.00%"
+      ],
+      [
+        "",
+        "Lavan Engines Mk Ii",
+        "Uncommon (12.50%)"
+      ],
+      [
+        "",
+        "Vidar Engines Mk Ii",
+        "Uncommon (12.50%)"
+      ],
+      [
+        "",
+        "Lavan Plating Mk Ii",
+        "Uncommon (12.50%)"
+      ],
+      [
+        "",
+        "Vidar Plating Mk Ii",
+        "Uncommon (12.50%)"
+      ],
+      [
+        "",
+        "Lavan Reactor Mk Ii",
+        "Uncommon (12.50%)"
+      ],
+      [
+        "",
+        "Vidar Reactor Mk Ii",
+        "Uncommon (12.50%)"
+      ],
+      [
+        "",
+        "Lavan Shield Array Mk Ii",
+        "Uncommon (12.50%)"
+      ],
+      [
+        "",
+        "Vidar Shield Array Mk Ii",
+        "Uncommon (12.50%)"
+      ],
+      [
+        ""
+      ],
+      [
+        "Elite Axio Weaver",
+        "Blueprint/Item Drop Chance: 20.00%"
+      ],
+      [
+        "",
+        "Zetki Engines Mk Ii",
+        "Uncommon (12.50%)"
+      ],
+      [
+        "",
+        "Zetki Plating Mk Ii",
+        "Uncommon (12.50%)"
+      ],
+      [
+        "",
+        "Zetki Reactor Mk Ii",
+        "Uncommon (12.50%)"
+      ],
+      [
+        "",
+        "Zetki Shield Array Mk Ii",
+        "Uncommon (12.50%)"
+      ],
+      [
+        "",
+        "Zetki Vort Mk Ii",
+        "Uncommon (12.50%)"
+      ],
+      [
+        "",
+        "Zetki Glazio Mk Ii",
+        "Uncommon (12.50%)"
+      ],
+      [
+        "",
+        "Zetki Talyn Mk Ii",
+        "Uncommon (12.50%)"
+      ],
+      [
+        "",
+        "Zetki Laith Mk Ii",
+        "Uncommon (12.50%)"
+      ],
+      [
+        ""
+      ],
+      [
+        "Elite Taro Weaver",
+        "Blueprint/Item Drop Chance: 20.00%"
+      ],
+      [
+        "",
+        "Zetki Engines Mk I",
+        "Uncommon (12.50%)"
+      ],
+      [
+        "",
+        "Zetki Plating Mk I",
+        "Uncommon (12.50%)"
+      ],
+      [
+        "",
+        "Zetki Reactor Mk I",
+        "Uncommon (12.50%)"
+      ],
+      [
+        "",
+        "Zetki Shield Array Mk I",
+        "Uncommon (12.50%)"
+      ],
+      [
+        "",
+        "Zetki Vort Mk I",
+        "Uncommon (12.50%)"
+      ],
+      [
+        "",
+        "Zetki Glazio Mk I",
+        "Uncommon (12.50%)"
+      ],
+      [
+        "",
+        "Zetki Talyn Mk I",
+        "Uncommon (12.50%)"
+      ],
+      [
+        "",
+        "Zetki Laith Mk I",
+        "Uncommon (12.50%)"
+      ],
+      [
+        ""
+      ],
+      [
+        "Vorac Gox",
+        "Blueprint/Item Drop Chance: 20.00%"
+      ],
+      [
+        "",
+        "Lavan Engines Mk Iii",
+        "Uncommon (12.50%)"
+      ],
+      [
+        "",
+        "Vidar Engines Mk Iii",
+        "Uncommon (12.50%)"
+      ],
+      [
+        "",
+        "Lavan Plating Mk Iii",
+        "Uncommon (12.50%)"
+      ],
+      [
+        "",
+        "Vidar Plating Mk Iii",
+        "Uncommon (12.50%)"
+      ],
+      [
+        "",
+        "Lavan Reactor Mk Iii",
+        "Uncommon (12.50%)"
+      ],
+      [
+        "",
+        "Vidar Reactor Mk Iii",
+        "Uncommon (12.50%)"
+      ],
+      [
+        "",
+        "Lavan Shield Array Mk Iii",
+        "Uncommon (12.50%)"
+      ],
+      [
+        "",
+        "Vidar Shield Array Mk Iii",
+        "Uncommon (12.50%)"
+      ],
+      [
+        ""
+      ],
+      [
+        "Elite Vorac Weaver",
+        "Blueprint/Item Drop Chance: 20.00%"
+      ],
+      [
+        "",
+        "Zetki Engines Mk Iii",
+        "Uncommon (12.50%)"
+      ],
+      [
+        "",
+        "Zetki Plating Mk Iii",
+        "Uncommon (12.50%)"
+      ],
+      [
+        "",
+        "Zetki Reactor Mk Iii",
+        "Uncommon (12.50%)"
+      ],
+      [
+        "",
+        "Zetki Shield Array Mk Iii",
+        "Uncommon (12.50%)"
+      ],
+      [
+        "",
+        "Zetki Vort Mk Iii",
+        "Uncommon (12.50%)"
+      ],
+      [
+        "",
+        "Zetki Glazio Mk Iii",
+        "Uncommon (12.50%)"
+      ],
+      [
+        "",
+        "Zetki Talyn Mk Iii",
+        "Uncommon (12.50%)"
+      ],
+      [
+        "",
+        "Zetki Laith Mk Iii",
+        "Uncommon (12.50%)"
+      ],
+      [
+        ""
+      ],
+      [
+        "Elite Exo Gokstad Crewship",
+        "Blueprint/Item Drop Chance: 20.00%"
+      ],
+      [
+        "",
+        "Vidar Photor Mk Iii",
+        "Uncommon (10.00%)"
+      ],
+      [
+        "",
+        "Zetki Photor Mk Iii",
+        "Uncommon (10.00%)"
+      ],
+      [
+        "",
+        "Vidar Cryophon Mk Iii",
+        "Uncommon (10.00%)"
+      ],
+      [
+        "",
+        "Vidar Carcinnox Mk Iii",
+        "Uncommon (10.00%)"
+      ],
+      [
+        "",
+        "Zetki Cryophon Mk Iii",
+        "Uncommon (10.00%)"
+      ],
+      [
+        "",
+        "Zetki Carcinnox Mk Iii",
+        "Uncommon (10.00%)"
+      ],
+      [
+        "",
+        "Vidar Pulsar Mk Iii",
+        "Uncommon (10.00%)"
+      ],
+      [
+        "",
+        "Zetki Pulsar Mk Iii",
+        "Uncommon (10.00%)"
+      ],
+      [
+        "",
+        "Vidar Apoc Mk Iii",
+        "Uncommon (10.00%)"
+      ],
+      [
+        "",
+        "Zetki Apoc Mk Iii",
+        "Uncommon (10.00%)"
+      ],
+      [
+        ""
+      ],
+      [
+        "Exo Gokstad Crewship",
+        "Blueprint/Item Drop Chance: 20.00%"
+      ],
+      [
+        "",
+        "Lavan Photor Mk Iii",
+        "Uncommon (10.00%)"
+      ],
+      [
+        "",
+        "Vidar Photor Mk Iii",
+        "Uncommon (10.00%)"
+      ],
+      [
+        "",
+        "Lavan Cryophon Mk Iii",
+        "Uncommon (10.00%)"
+      ],
+      [
+        "",
+        "Lavan Carcinnox Mk Iii",
+        "Uncommon (10.00%)"
+      ],
+      [
+        "",
+        "Vidar Cryophon Mk Iii",
+        "Uncommon (10.00%)"
+      ],
+      [
+        "",
+        "Vidar Carcinnox Mk Iii",
+        "Uncommon (10.00%)"
+      ],
+      [
+        "",
+        "Lavan Pulsar Mk Iii",
+        "Uncommon (10.00%)"
+      ],
+      [
+        "",
+        "Vidar Pulsar Mk Iii",
+        "Uncommon (10.00%)"
+      ],
+      [
+        "",
+        "Lavan Apoc Mk Iii",
+        "Uncommon (10.00%)"
+      ],
+      [
+        "",
+        "Vidar Apoc Mk Iii",
+        "Uncommon (10.00%)"
+      ],
+      [
+        ""
+      ],
+      [
+        "Kosma Gokstad Crewship",
+        "Blueprint/Item Drop Chance: 20.00%"
+      ],
+      [
+        "",
+        "Lavan Photor Mk I",
+        "Uncommon (10.00%)"
+      ],
+      [
+        "",
+        "Vidar Photor Mk I",
+        "Uncommon (10.00%)"
+      ],
+      [
+        "",
+        "Lavan Cryophon Mk I",
+        "Uncommon (10.00%)"
+      ],
+      [
+        "",
+        "Lavan Carcinnox Mk I",
+        "Uncommon (10.00%)"
+      ],
+      [
+        "",
+        "Vidar Cryophon Mk I",
+        "Uncommon (10.00%)"
+      ],
+      [
+        "",
+        "Vidar Carcinnox Mk I",
+        "Uncommon (10.00%)"
+      ],
+      [
+        "",
+        "Lavan Pulsar Mk I",
+        "Uncommon (10.00%)"
+      ],
+      [
+        "",
+        "Vidar Pulsar Mk I",
+        "Uncommon (10.00%)"
+      ],
+      [
+        "",
+        "Lavan Apoc Mk I",
+        "Uncommon (10.00%)"
+      ],
+      [
+        "",
+        "Vidar Apoc Mk I",
+        "Uncommon (10.00%)"
+      ],
+      [
+        ""
+      ],
+      [
+        "Gyre Gokstad Crewship",
+        "Blueprint/Item Drop Chance: 20.00%"
+      ],
+      [
+        "",
+        "Lavan Photor Mk Ii",
+        "Uncommon (10.00%)"
+      ],
+      [
+        "",
+        "Vidar Photor Mk Ii",
+        "Uncommon (10.00%)"
+      ],
+      [
+        "",
+        "Lavan Cryophon Mk Ii",
+        "Uncommon (10.00%)"
+      ],
+      [
+        "",
+        "Lavan Carcinnox Mk Ii",
+        "Uncommon (10.00%)"
+      ],
+      [
+        "",
+        "Vidar Cryophon Mk Ii",
+        "Uncommon (10.00%)"
+      ],
+      [
+        "",
+        "Vidar Carcinnox Mk Ii",
+        "Uncommon (10.00%)"
+      ],
+      [
+        "",
+        "Lavan Pulsar Mk Ii",
+        "Uncommon (10.00%)"
+      ],
+      [
+        "",
+        "Vidar Pulsar Mk Ii",
+        "Uncommon (10.00%)"
+      ],
+      [
+        "",
+        "Lavan Apoc Mk Ii",
+        "Uncommon (10.00%)"
+      ],
+      [
+        "",
+        "Vidar Apoc Mk Ii",
+        "Uncommon (10.00%)"
+      ],
+      [
+        ""
+      ],
+      [
+        "Exo Skold Crewship",
+        "Blueprint/Item Drop Chance: 20.00%"
+      ],
+      [
+        "",
+        "Lavan Photor Mk Iii",
+        "Uncommon (10.00%)"
+      ],
+      [
+        "",
+        "Vidar Photor Mk Iii",
+        "Uncommon (10.00%)"
+      ],
+      [
+        "",
+        "Lavan Cryophon Mk Iii",
+        "Uncommon (10.00%)"
+      ],
+      [
+        "",
+        "Lavan Carcinnox Mk Iii",
+        "Uncommon (10.00%)"
+      ],
+      [
+        "",
+        "Vidar Cryophon Mk Iii",
+        "Uncommon (10.00%)"
+      ],
+      [
+        "",
+        "Vidar Carcinnox Mk Iii",
+        "Uncommon (10.00%)"
+      ],
+      [
+        "",
+        "Lavan Pulsar Mk Iii",
+        "Uncommon (10.00%)"
+      ],
+      [
+        "",
+        "Vidar Pulsar Mk Iii",
+        "Uncommon (10.00%)"
+      ],
+      [
+        "",
+        "Lavan Apoc Mk Iii",
+        "Uncommon (10.00%)"
+      ],
+      [
+        "",
+        "Vidar Apoc Mk Iii",
+        "Uncommon (10.00%)"
+      ],
+      [
+        ""
+      ],
+      [
+        "Elite Exo Outrider",
+        "Blueprint/Item Drop Chance: 100.00%"
+      ],
+      [
+        "",
+        "Zetki Engines Mk Iii",
+        "Uncommon (11.11%)"
+      ],
+      [
+        "",
+        "Zetki Plating Mk Iii",
+        "Uncommon (11.11%)"
+      ],
+      [
+        "",
+        "Zetki Reactor Mk Iii",
+        "Uncommon (11.11%)"
+      ],
+      [
+        "",
+        "Zetki Shield Array Mk Iii",
+        "Uncommon (11.11%)"
+      ],
+      [
+        "",
+        "Zetki Photor Mk Iii",
+        "Uncommon (11.11%)"
+      ],
+      [
+        "",
+        "Zetki Cryophon Mk Iii",
+        "Uncommon (11.11%)"
+      ],
+      [
+        "",
+        "Zetki Carcinnox Mk Iii",
+        "Uncommon (11.11%)"
+      ],
+      [
+        "",
+        "Zetki Pulsar Mk Iii",
+        "Uncommon (11.11%)"
+      ],
+      [
+        "",
+        "Zetki Apoc Mk Iii",
+        "Uncommon (11.11%)"
+      ],
+      [
+        ""
+      ],
+      [
+        "Elite Kosma Outrider",
+        "Blueprint/Item Drop Chance: 100.00%"
+      ],
+      [
+        "",
+        "Zetki Engines Mk I",
+        "Uncommon (11.11%)"
+      ],
+      [
+        "",
+        "Zetki Plating Mk I",
+        "Uncommon (11.11%)"
+      ],
+      [
+        "",
+        "Zetki Reactor Mk I",
+        "Uncommon (11.11%)"
+      ],
+      [
+        "",
+        "Zetki Shield Array Mk I",
+        "Uncommon (11.11%)"
+      ],
+      [
+        "",
+        "Zetki Photor Mk I",
+        "Uncommon (11.11%)"
+      ],
+      [
+        "",
+        "Zetki Cryophon Mk I",
+        "Uncommon (11.11%)"
+      ],
+      [
+        "",
+        "Zetki Carcinnox Mk I",
+        "Uncommon (11.11%)"
+      ],
+      [
+        "",
+        "Zetki Pulsar Mk I",
+        "Uncommon (11.11%)"
+      ],
+      [
+        "",
+        "Zetki Apoc Mk I",
+        "Uncommon (11.11%)"
+      ],
+      [
+        ""
+      ],
+      [
+        "Elite Gyre Outrider",
+        "Blueprint/Item Drop Chance: 100.00%"
+      ],
+      [
+        "",
+        "Zetki Engines Mk Ii",
+        "Uncommon (11.11%)"
+      ],
+      [
+        "",
+        "Zetki Plating Mk Ii",
+        "Uncommon (11.11%)"
+      ],
+      [
+        "",
+        "Zetki Reactor Mk Ii",
+        "Uncommon (11.11%)"
+      ],
+      [
+        "",
+        "Zetki Shield Array Mk Ii",
+        "Uncommon (11.11%)"
+      ],
+      [
+        "",
+        "Zetki Photor Mk Ii",
+        "Uncommon (11.11%)"
+      ],
+      [
+        "",
+        "Zetki Cryophon Mk Ii",
+        "Uncommon (11.11%)"
+      ],
+      [
+        "",
+        "Zetki Carcinnox Mk Ii",
+        "Uncommon (11.11%)"
+      ],
+      [
+        "",
+        "Zetki Pulsar Mk Ii",
+        "Uncommon (11.11%)"
+      ],
+      [
+        "",
+        "Zetki Apoc Mk Ii",
+        "Uncommon (11.11%)"
+      ],
+      [
+        ""
+      ],
+      [
+        "Kuva Lich Agor Rok",
+        "Blueprint/Item Drop Chance: 10.00%"
+      ],
+      [
+        "",
+        "Quellor Blueprint",
+        "Common (50.00%)"
+      ],
+      [
+        "",
+        "Pennant Blueprint",
+        "Common (50.00%)"
+      ],
+      [
+        ""
+      ],
+      [
+        "Reinforced Carrypod",
+        "Blueprint/Item Drop Chance: 2.00%"
+      ],
+      [
+        "",
+        "Parallax Avionics Blueprint",
+        "Common (33.33%)"
+      ],
+      [
+        "",
+        "Parallax Engines Blueprint",
+        "Common (33.33%)"
+      ],
+      [
+        "",
+        "Parallax Fuselage Blueprint",
+        "Common (33.33%)"
+      ],
+      [
+        ""
+      ],
+      [
+        "Exploiter Orb",
+        "Blueprint/Item Drop Chance: 100.00%"
+      ],
+      [
+        "",
+        "Hildryn Chassis Blueprint",
+        "Common (38.72%)"
+      ],
+      [
+        "",
+        "Hildryn Neuroptics Blueprint",
+        "Common (38.72%)"
+      ],
+      [
+        "",
+        "Hildryn Systems Blueprint",
+        "Uncommon (22.56%)"
+      ],
+      [
+        ""
+      ],
+      [
+        "Void Fissure Corrupted Enemy",
+        "Blueprint/Item Drop Chance: 3.00%"
+      ],
+      [
+        "",
+        "Harrow Chassis Blueprint",
+        "Very Common (100.00%)"
+      ],
+      [
+        ""
+      ]
+    ]
+  ],
+  "id": "blueprintByAvatar"
+}

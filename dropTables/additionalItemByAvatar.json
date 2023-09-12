@@ -1,0 +1,460 @@
+{
+  "name": "Additional Item Drops by Source:",
+  "data": [
+    [
+      [
+        "Amalgam Cinder Machinist",
+        "Additional Item Drop Chance: 4.00%"
+      ],
+      [
+        "",
+        "Anti-Grav Array",
+        "Uncommon (25.00%)"
+      ],
+      [
+        "",
+        "Odomedic",
+        "Uncommon (25.00%)"
+      ],
+      [
+        "",
+        "Kavat's Grace",
+        "Uncommon (25.00%)"
+      ],
+      [
+        "",
+        "Gale Kick",
+        "Uncommon (25.00%)"
+      ],
+      [
+        ""
+      ],
+      [
+        "Amalgam Arca Kucumatz",
+        "Additional Item Drop Chance: 4.00%"
+      ],
+      [
+        "",
+        "Anti-Grav Array",
+        "Uncommon (25.00%)"
+      ],
+      [
+        "",
+        "Odomedic",
+        "Uncommon (25.00%)"
+      ],
+      [
+        "",
+        "Kavat's Grace",
+        "Uncommon (25.00%)"
+      ],
+      [
+        "",
+        "Gale Kick",
+        "Uncommon (25.00%)"
+      ],
+      [
+        ""
+      ],
+      [
+        "Amalgam Arca Heqet",
+        "Additional Item Drop Chance: 4.00%"
+      ],
+      [
+        "",
+        "Anti-Grav Array",
+        "Uncommon (25.00%)"
+      ],
+      [
+        "",
+        "Odomedic",
+        "Uncommon (25.00%)"
+      ],
+      [
+        "",
+        "Kavat's Grace",
+        "Uncommon (25.00%)"
+      ],
+      [
+        "",
+        "Gale Kick",
+        "Uncommon (25.00%)"
+      ],
+      [
+        ""
+      ],
+      [
+        "Amalgam Phase Moa",
+        "Additional Item Drop Chance: 4.00%"
+      ],
+      [
+        "",
+        "Anti-Grav Array",
+        "Uncommon (25.00%)"
+      ],
+      [
+        "",
+        "Odomedic",
+        "Uncommon (25.00%)"
+      ],
+      [
+        "",
+        "Kavat's Grace",
+        "Uncommon (25.00%)"
+      ],
+      [
+        "",
+        "Gale Kick",
+        "Uncommon (25.00%)"
+      ],
+      [
+        ""
+      ],
+      [
+        "Amalgam Swarm Satyr",
+        "Additional Item Drop Chance: 4.00%"
+      ],
+      [
+        "",
+        "Anti-Grav Array",
+        "Uncommon (25.00%)"
+      ],
+      [
+        "",
+        "Odomedic",
+        "Uncommon (25.00%)"
+      ],
+      [
+        "",
+        "Kavat's Grace",
+        "Uncommon (25.00%)"
+      ],
+      [
+        "",
+        "Gale Kick",
+        "Uncommon (25.00%)"
+      ],
+      [
+        ""
+      ],
+      [
+        "Brachiolyst Disperser",
+        "Additional Item Drop Chance: 5.00%"
+      ],
+      [
+        "",
+        "Intact Sentient Core",
+        "Very Common (100.00%)"
+      ],
+      [
+        ""
+      ],
+      [
+        "Corrupted Power Carrier",
+        "Additional Item Drop Chance: 100.00%"
+      ],
+      [
+        "",
+        "Powercell",
+        "Very Common (100.00%)"
+      ],
+      [
+        ""
+      ],
+      [
+        "Corrupted Power Carrier",
+        "Additional Item Drop Chance: 100.00%"
+      ],
+      [
+        "",
+        "Powercell",
+        "Very Common (100.00%)"
+      ],
+      [
+        ""
+      ],
+      [
+        "Erra",
+        "Additional Item Drop Chance: 50.00%"
+      ],
+      [
+        "",
+        "Intact Sentient Core",
+        "Very Common (100.00%)"
+      ],
+      [
+        ""
+      ],
+      [
+        "Nightwatch Carrier",
+        "Additional Item Drop Chance: 100.00%"
+      ],
+      [
+        "",
+        "Powercell",
+        "Very Common (100.00%)"
+      ],
+      [
+        ""
+      ],
+      [
+        "Brachiolyst",
+        "Additional Item Drop Chance: 5.00%"
+      ],
+      [
+        "",
+        "Intact Sentient Core",
+        "Very Common (100.00%)"
+      ],
+      [
+        ""
+      ],
+      [
+        "Summulyst",
+        "Additional Item Drop Chance: 50.00%"
+      ],
+      [
+        "",
+        "Intact Sentient Core",
+        "Very Common (100.00%)"
+      ],
+      [
+        ""
+      ],
+      [
+        "Tyro Conculyst",
+        "Additional Item Drop Chance: 50.00%"
+      ],
+      [
+        "",
+        "Intact Sentient Core",
+        "Very Common (100.00%)"
+      ],
+      [
+        ""
+      ],
+      [
+        "Ortholyst",
+        "Additional Item Drop Chance: 50.00%"
+      ],
+      [
+        "",
+        "Intact Sentient Core",
+        "Very Common (100.00%)"
+      ],
+      [
+        ""
+      ],
+      [
+        "Symbilyst",
+        "Additional Item Drop Chance: 50.00%"
+      ],
+      [
+        "",
+        "Intact Sentient Core",
+        "Very Common (100.00%)"
+      ],
+      [
+        ""
+      ],
+      [
+        "Vomvalyst",
+        "Additional Item Drop Chance: 5.00%"
+      ],
+      [
+        "",
+        "Intact Sentient Core",
+        "Very Common (100.00%)"
+      ],
+      [
+        ""
+      ],
+      [
+        "Mutalist Osprey Carrier",
+        "Additional Item Drop Chance: 100.00%"
+      ],
+      [
+        "",
+        "Powercell",
+        "Very Common (100.00%)"
+      ],
+      [
+        ""
+      ],
+      [
+        "Corpus Power Carrier",
+        "Additional Item Drop Chance: 100.00%"
+      ],
+      [
+        "",
+        "Powercell",
+        "Very Common (100.00%)"
+      ],
+      [
+        ""
+      ],
+      [
+        "Kuva Hellion Carrier",
+        "Additional Item Drop Chance: 100.00%"
+      ],
+      [
+        "",
+        "Powercell",
+        "Very Common (100.00%)"
+      ],
+      [
+        ""
+      ],
+      [
+        "Kuva Power Carrier",
+        "Additional Item Drop Chance: 100.00%"
+      ],
+      [
+        "",
+        "Powercell",
+        "Very Common (100.00%)"
+      ],
+      [
+        ""
+      ],
+      [
+        "Hellion Power Carrier",
+        "Additional Item Drop Chance: 100.00%"
+      ],
+      [
+        "",
+        "Powercell",
+        "Very Common (100.00%)"
+      ],
+      [
+        ""
+      ],
+      [
+        "Grineer Power Carrier",
+        "Additional Item Drop Chance: 100.00%"
+      ],
+      [
+        "",
+        "Powercell",
+        "Very Common (100.00%)"
+      ],
+      [
+        ""
+      ],
+      [
+        "Jackal",
+        "Additional Item Drop Chance: 5.00%"
+      ],
+      [
+        "",
+        "Riven Sliver",
+        "Very Common (100.00%)"
+      ],
+      [
+        ""
+      ],
+      [
+        "Conculyst",
+        "Additional Item Drop Chance: 50.00%"
+      ],
+      [
+        "",
+        "Intact Sentient Core",
+        "Very Common (100.00%)"
+      ],
+      [
+        ""
+      ],
+      [
+        "Battalyst",
+        "Additional Item Drop Chance: 50.00%"
+      ],
+      [
+        "",
+        "Intact Sentient Core",
+        "Very Common (100.00%)"
+      ],
+      [
+        ""
+      ],
+      [
+        "Decaying Conculyst",
+        "Additional Item Drop Chance: 50.00%"
+      ],
+      [
+        "",
+        "Intact Sentient Core",
+        "Very Common (100.00%)"
+      ],
+      [
+        ""
+      ],
+      [
+        "Decaying Battalyst",
+        "Additional Item Drop Chance: 50.00%"
+      ],
+      [
+        "",
+        "Intact Sentient Core",
+        "Very Common (100.00%)"
+      ],
+      [
+        ""
+      ],
+      [
+        "Shadow Stalker",
+        "Additional Item Drop Chance: 5.00%"
+      ],
+      [
+        "",
+        "Smoking Body Ephemera Blueprint",
+        "Very Common (100.00%)"
+      ],
+      [
+        ""
+      ],
+      [
+        "Deimos Mutalist Osprey Carrier",
+        "Additional Item Drop Chance: 100.00%"
+      ],
+      [
+        "",
+        "Powercell",
+        "Very Common (100.00%)"
+      ],
+      [
+        ""
+      ],
+      [
+        "Narmer Power Carrier",
+        "Additional Item Drop Chance: 100.00%"
+      ],
+      [
+        "",
+        "Powercell",
+        "Very Common (100.00%)"
+      ],
+      [
+        ""
+      ],
+      [
+        "Exploiter Orb",
+        "Additional Item Drop Chance: 10.00%"
+      ],
+      [
+        "",
+        "Shocking Step Ephemera Blueprint",
+        "Common (50.00%)"
+      ],
+      [
+        "",
+        "Freezing Step Ephemera Blueprint",
+        "Common (50.00%)"
+      ],
+      [
+        ""
+      ]
+    ]
+  ],
+  "id": "additionalItemByAvatar"
+}
